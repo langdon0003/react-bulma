@@ -1,0 +1,55 @@
+{
+  "name": "react-bulma",
+  "version": "1.0.0",
+  "description": "A starter template for reactjs and bulma css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack",
+    "start": "webpack-dev-server --open",
+    "server": "node server.js"
+  },
+  "author": "easy_john",
+  "license": "ISC",
+  "devDependencies": {
+    "npm i babel-core --save-dev": "^6.26.0",
+    "npm i babel-loader --save-dev": "^7.1.2",
+    "npm i babel-preset-env --save-dev": "^1.6.0",
+    "npm i babel-preset-react --save-dev": "^6.24.1",
+    "npm i css-loader --save-dev": "^0.28.7",
+    "npm i express --save-dev": "^4.16.1",
+    "npm i extract-text-webpack-plugin --save-dev": "^3.0.1",
+    "npm i html-webpack-plugin --save-dev": "^2.30.1",
+    "npm i node-sass --save-dev": "^4.5.3",
+    "npm i resolve-url-loader --save-dev": "^2.1.0",
+    "npm i sass-loader --save-dev": "^6.0.6",
+    "npm i style-loader --save-dev": "^0.19.0",
+    "npm i webpack --save-dev": "^3.6.0",
+    "npm i webpack-dev-middleware --save-dev": "^1.12.0",
+    "npm i webpack-dev-server --save-dev": "^2.9.1"
+  },
+  "dependencies": {
+    "bulma": "^0.5.3",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
+npm i babel-core --save-dev
+npm i babel-loader --save-dev
+npm i babel-preset-env --save-dev
+npm i babel-preset-react --save-dev
+npm i css-loader --save-dev
+npm i express --save-dev
+npm i extract-text-webpack-plugin --save-dev
+npm i html-webpack-plugin --save-dev
+npm i node-sass --save-dev
+npm i resolve-url-loader --save-dev
+npm i sass-loader --save-dev
+npm i style-loader --save-dev
+npm i webpack --save-dev
+npm i webpack-dev-middleware --save-dev
+npm i webpack-dev-server --save-dev
+npm i bulma
+npm i react
+npm i react-dom
